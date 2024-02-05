@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384058309738",
+    "project_id": "fashtdev-shopping",
+    "storage_bucket": "fashtdev-shopping.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384058309738:android:ce05041d6c03054ef05e13",
+        "android_client_info": {
+          "package_name": "com.example.fashtdevecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOcNI0DFvZrQO7i1NpIP4N7cReI_QIOps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
